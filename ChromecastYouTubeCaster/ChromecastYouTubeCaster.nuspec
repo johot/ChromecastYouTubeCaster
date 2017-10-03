@@ -1,22 +1,17 @@
 <?xml version="1.0"?>
-<package >
+<package>
   <metadata>
     <id>$id$</id>
     <version>$version$</version>
     <title>$title$</title>
     <authors>Curbits Software</authors>
     <owners>Curbits Software</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <licenseUrl>https://raw.githubusercontent.com/johot/ChromecastYouTubeCaster/master/LICENSE.txt</licenseUrl>
     <projectUrl>https://github.com/johot/ChromecastYouTubeCaster</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>*** DESCRIPTION GOES HERE ***</description>
+    <description>Makes it really easy to cast YouTube videos to your Chromecast device.</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright © 2017 Curbits Software</copyright>
     <tags></tags>
   </metadata>
-  <files>
-    <!--Do not use unless for a specific reason, NuGet will fill this out for us-->
-    <!--<file src="Readme.txt" target="" />-->
-  </files>
 </package>

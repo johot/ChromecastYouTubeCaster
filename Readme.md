@@ -1,5 +1,5 @@
 # Chromecast YouTube caster
-Makes it really easy to cast youtube videos to your Chromecast device:
+Makes it really easy to cast YouTube videos to your Chromecast device:
 
 ```cs
 // *** For now use the Google home app to find your ip or use a library like SharpCaster ***
